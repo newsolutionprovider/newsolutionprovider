@@ -8,10 +8,6 @@
 - 💪🏼 Future Goals: Learn more technologies based on AI deep model and algorithmic trading - Never stop creating new ideas.
 - ⚡ Fun fact: I love to do Social networking.
 
----
-
----
-
 ### Languages and Tools 🛠 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
