@@ -10,16 +10,6 @@
 
 ---
 
-## GitHub Thropies 🏆
-
-<br>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=solutionprovider9174)](https://github.com/solutionprovider9174/github-profile-trophy)
-
-<br>
-
-<br />
-
 ---
 
 ### Languages and Tools 🛠 
@@ -50,22 +40,3 @@
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
 <br/>
-
----
-
-<br/>
-
-  <h2 align="center"> Github Statistics 📈 </h2>
-  
-  <div align="center"> 
-     
-</div
-
-<br/>
-
----
-
-
-----
-
-Last Edited on: 09/09/2023
